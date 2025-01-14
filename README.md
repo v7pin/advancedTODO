@@ -17,13 +17,13 @@ The app is designed with a modern UI using Tailwind CSS and React Icons for a be
 ## **Screenshots**
 
 ### 1. Home Page
-![Home Page](path/to/homepage-screenshot.png)
+![Home Page](./screenshots/ss1.png)
 
 ### 2. Weather Information
-![Weather Info](path/to/weather-screenshot.png)
+![Weather Info](./screenshots/ss2.png)
 
 ### 3. Task Management
-![Task Management](path/to/tasks-screenshot.png)
+![Task Management](./screenshots/ss3.png)
 
 ---
 
