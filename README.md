@@ -72,8 +72,8 @@ Ensure you have the following installed:
 
 ## **Deployment**
 
-The application is deployed on **[Hosting Platform Name]**.  
-Access the live site here: [Live Demo](https://your-app-url.netlify.app)
+The application is deployed on **[Netlify]**.  
+Access the live site here: [Live Demo](https://advancedt0do.netlify.app/)
 
 ---
 
